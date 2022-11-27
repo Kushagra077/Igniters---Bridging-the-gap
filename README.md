@@ -15,6 +15,14 @@ Challenges we ran into
 We faced one hurdle in how to detect sign language accurately. We used "resnet50" a pre-trained model to solve that hurdle. We train our machine-learning model with large dataset to achieve high accuracy.
 
 Technologies we used
+TensorFlow lite
+Android Studio
+Java
+Python
+Extensible Markup Language
+Computer Vision(Open CV)
+Natural Language Processing
+
 
 Links
 ADD LINKS TO GITHUB, WEBSITE, APP STORE E.T.C OR WHEREVER THE PROJECT CAN BE TESTED LIVE
